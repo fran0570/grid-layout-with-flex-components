@@ -35,7 +35,19 @@ body {
     order: 1;
     margin-top: auto;
 }
-  
+
+
+/*  Teachers note
+    another way to align all the buttons to the bottom of the cards 
+
+.emoji {
+	display: flex;
+}
+
+.emoji p {
+	flex-grow: 1;
+} */
+
 .icon {
     font-size: 4rem;
     align-self: center;
